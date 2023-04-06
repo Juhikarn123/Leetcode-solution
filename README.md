@@ -1,3 +1,3 @@
 # Leetcode-solution
-File Numbers are question number .
-ex:1.java is 1 easy question of Leetcode.
+Easy question of leetcode ...
+file numbers are question of leetcode
